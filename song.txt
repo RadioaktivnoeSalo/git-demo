@@ -9,3 +9,6 @@ My new lines
 I have to do that
 Somebody help me
 Yeahhh
+
+
+I will delete a commit
