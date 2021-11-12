@@ -12,6 +12,3 @@ Yeahhh
 
 
 I will delete a commit
-
-blablabla
-------------
