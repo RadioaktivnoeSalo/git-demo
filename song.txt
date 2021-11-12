@@ -15,4 +15,5 @@ I will delete a commit
 
 new somesthing
 
-git revert new commit
+
+branch feature
